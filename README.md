@@ -1,5 +1,5 @@
-# Aerduino-valorant-cheat
-Aerduino + USB Host Shield - Valorant Aimbot
+# Python Aerduino-valorant-cheat
+Python Aerduino + USB Host Shield - Valorant Aimbot
 
 Features:
 Aimbot
